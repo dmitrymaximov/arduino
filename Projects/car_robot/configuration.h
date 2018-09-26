@@ -1,3 +1,4 @@
+
 bool isCommand = false;
 
 /* ***** General configurations ***** */
